@@ -3,13 +3,13 @@
  * @author Michael J Habermann
  * @brief The function(s) for the get Tokens program
  * @date 2023-09-13
- * 
+ *
  */
 #include "getTokens.h"
 
 /**
  * @brief This function counts the token relaying the pointer back to the user
- * 
+ *
  * @param s String the user passes
  * @param args an array of strings passed back to the user as "tokens"
  * @return int The amount of tokens
